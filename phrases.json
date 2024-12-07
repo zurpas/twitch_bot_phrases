@@ -1,12 +1,51 @@
 {
-  "insults": [
-    "You fight like a cow!",
-    "You're as sharp as a marble.",
-    "You bring everyone so much joy... when you leave the room!"
+  "insult": [
+    "",
+    "",
+    ""
   ],
-  "compliments": [
-    "You have impeccable manners!",
-    "Your smile is contagious.",
-    "You light up every room you walk into."
-  ]
+  "insultTarget": [
+    "",
+    "",
+    ""
+  ],
+
+  
+  "compliment": [
+    "",
+    "",
+    ""
+  ],
+  "complimentTarget": [
+    "",
+    "",
+    ""
+  ],
+
+  
+  "slap": [
+    "",
+    "",
+    ""
+  ],
+  "slapTarget": [
+    "",
+    "",
+    ""
+  ],
+
+
+  "fight": [
+    "",
+    "",
+    ""
+  ],
+
+  "fightTarget": [
+    "",
+    "",
+    ""
+  ],
 }
+
+
